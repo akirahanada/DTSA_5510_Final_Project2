@@ -7,7 +7,7 @@ I'll be presenting my analysis of the Travel Review Rating Dataset, where I used
 ## 1.1 Problem Statements
 Let's start by addressing the problem I am solving. The travel and leisure industry faces a significant challenge in understanding the diverse preferences of its users.
 My goal was to segment users based on their ratings across various categories of travel experiences.
-By doing so, I aim to provide insights that can inform targeted marketing strategies and service improvements in the industry.ustry.
+By doing so, I aim to provide insights that can inform targeted marketing strategies and service improvements in the industry.
 
 # 2. About Dataset
 The dataset provided from kaggle (https://www.kaggle.com/datasets/wirachleelakiatiwong/travel-review-rating-dataset) contains ratings for different categories of interest, presumably for places or activities, by various users. Here's the overview of dataset. 
